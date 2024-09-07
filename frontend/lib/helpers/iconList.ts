@@ -18,7 +18,6 @@ import {
 } from "react-icons/bs";
 import { CgSoftwareDownload } from "react-icons/cg";
 import { CiFlag1 } from "react-icons/ci";
-
 import {
   FaCalendar,
   FaCheck,
