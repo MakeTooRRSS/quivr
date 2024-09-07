@@ -26,7 +26,6 @@ import {
   FaFile,
   FaFileAlt,
   FaGithub,
-  FiAirplay,
   FaLinkedin,
   FaQuestionCircle,
   FaRegFileAlt,
@@ -42,7 +41,7 @@ import {
   FaUnlock,
 } from "react-icons/fa";
 import { FaInfo } from "react-icons/fa6";
-import { FiUpload } from "react-icons/fi";
+import { FiAirplay, FiUpload } from "react-icons/fi";
 import { GoLightBulb } from "react-icons/go";
 import { HiBuildingOffice } from "react-icons/hi2";
 import {
