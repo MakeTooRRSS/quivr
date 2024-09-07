@@ -49,14 +49,14 @@ const Assistants = (): JSX.Element => {
       <div className={styles.page_header}>
         <PageHeader
           iconName="assistant"
-          label="Quivr Assistants"
+          label="Dr. Quantum Assistants"
           buttons={[]}
         />
         <div className={styles.content_wrapper}>
           <MessageInfoBox type="info">
             <div className={styles.message_wrapper}>
               <span>
-                A Quivr Assistant is an AI agent that apply specific processes
+                A Dr. Quantum Assistant is an AI agent that apply specific processes
                 to an input in order to generate a usable output.
               </span>
               <span>

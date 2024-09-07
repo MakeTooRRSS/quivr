@@ -29,18 +29,18 @@
   "noCurrentBrain": "Nenhum cérebro selecionado",
   "onboarding": {
     "answer": {
-      "how_to_use_quivr": "Verifique a documentação em https://brain.quivr.app/docs/intro.html",
+      "how_to_use_quivr": "",
       "what_is_brain": "Um cérebro é uma pasta virtual para organizar informações sobre um tópico específico. Ele pode armazenar documentos e se conectar a aplicativos ou APIs externas. Por exemplo, um cérebro 'Ciência Médica' poderia conter dados relacionados à saúde, e um cérebro 'Jurídico' poderia ter informações legais. Os cérebros podem ser tornados públicos para que outros os usem sem revelar o conteúdo, promovendo o compartilhamento de conhecimento.",
-      "what_is_quivr": "Quivr é um assistente útil. Você pode facilmente arrastar e soltar arquivos no chat ou na seção de conhecimento para interagir com eles. Não é apenas uma ferramenta de chat; você também pode se comunicar com aplicativos usando APIs.\nPara manter seu trabalho organizado, você pode criar cérebros, essencialmente pastas virtuais, e se inscrever nos cérebros de outras pessoas na seção de exploração para colaboração e compartilhamento de informações perfeitos."
+      "what_is_quivr": "Dr. Quantum é um assistente útil. Você pode facilmente arrastar e soltar arquivos no chat ou na seção de conhecimento para interagir com eles. Não é apenas uma ferramenta de chat; você também pode se comunicar com aplicativos usando APIs.\nPara manter seu trabalho organizado, você pode criar cérebros, essencialmente pastas virtuais, e se inscrever nos cérebros de outras pessoas na seção de exploração para colaboração e compartilhamento de informações perfeitos."
     },
-    "how_to_use_quivr": "Como usar o Quivr?",
+    "how_to_use_quivr": "Como usar o Dr. Quantum?",
     "step_1_1": "1. Arraste e solte o arquivo no chat ou no 📎.",
-    "step_1_2": "Não tem um arquivo? Baixe 'Documentação do Quivr'",
+    "step_1_2": "Não tem um arquivo? Baixe 'Documentação do Dr. Quantum'",
     "step_2": "2. Comece a conversar com seu arquivo",
     "step_3": "3. Divirta-se!",
-    "title": "Oi 👋🏻 Quer descobrir o Quivr ? 😇",
+    "title": "Oi 👋🏻 Quer descobrir o Dr. Quantum ? 😇",
     "what_is_brain": "O que é um cérebro?",
-    "what_is_quivr": "O que é o Quivr?"
+    "what_is_quivr": "O que é o Dr. Quantum?"
   },
   "parameters": "Parâmetros",
   "receivedResponse": "Resposta recebida. Iniciando o processamento do fluxo...",

@@ -67,7 +67,7 @@ export const HelpWindow = (): JSX.Element => {
       ref={helpWindowRef}
     >
       <div className={styles.header}>
-        <span className={styles.title}>🧠 What is Quivr ?</span>
+        <span className={styles.title}>🧠 What is Dr. Quantum ?</span>
         <Icon
           name="close"
           size="normal"
@@ -80,7 +80,7 @@ export const HelpWindow = (): JSX.Element => {
         <div className={styles.section}>
           <span className={styles.title}>🧱 Build your second brains</span>
           <span className={styles.section_content}>
-            A <strong>Brain</strong> in Quivr is an advanced knowledge system
+            A <strong>Brain</strong> in Dr. Quantum is an advanced knowledge system
             designed to integrate and leverage information from various sources.
             <ul>
               <li>
@@ -138,7 +138,7 @@ export const HelpWindow = (): JSX.Element => {
               </li>
             </ul>
             <p>
-              You can also <strong>share</strong> your brains with other Quivr
+              You can also <strong>share</strong> your brains with other Dr. Quantum
               users, allowing them to access and benefit from your knowledge
               systems. 🤝
             </p>
@@ -148,7 +148,7 @@ export const HelpWindow = (): JSX.Element => {
           <span className={styles.title}>🤖 Talk to AI Models</span>
           <span className={styles.section_content}>
             <p>
-              Quivr allows you to <strong>interact directly</strong> with AI
+              Dr. Quantum allows you to <strong>interact directly</strong> with AI
               models such as{" "}
               <strong>
                 <em>GPT-4</em>
@@ -173,10 +173,10 @@ export const HelpWindow = (): JSX.Element => {
           </span>
           <div className={styles.image}>
             <Image
-              src="https://quivr-cms.s3.eu-west-3.amazonaws.com/Screen_82ac3783aa.png"
+              src="https://drquantum.io/wp-content/uploads/2024/09/Chat-Dr.-Quantum.png"
               width={500}
               height={100}
-              alt="Quivr"
+              alt="Dr. Quantum"
             />
           </div>
         </div>
