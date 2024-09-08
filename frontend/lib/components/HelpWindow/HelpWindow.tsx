@@ -185,7 +185,7 @@ export const HelpWindow = (): JSX.Element => {
           </span>
           <div className={styles.image}>
             <Image
-              src="https://drquantum.io/wp-content/uploads/2024/09/quantum.png"
+              src="/frontend/public/quantum.png"
               width={500}
               height={100}
               alt="quantum"
