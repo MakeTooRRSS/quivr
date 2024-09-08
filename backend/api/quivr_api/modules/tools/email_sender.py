@@ -54,7 +54,7 @@ class EmailSenderTool(BaseTool):
                 {
                     "from": self.contact_settings.resend_contact_sales_from,
                     "to": self.user_email,
-                    "reply_to": "no-reply@quivr.app",
+                    "reply_to": "info@drquantum.io",
                     "subject": "Email from your assistant",
                     "html": html_body,
                 }

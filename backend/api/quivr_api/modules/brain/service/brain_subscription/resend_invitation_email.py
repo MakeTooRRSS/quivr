@@ -44,8 +44,8 @@ def resend_invitation_email(
             {
                 "from": brains_settings.resend_email_address,
                 "to": [brain_subscription.email],
-                "subject": "Quivr - Brain Shared With You",
-                "reply_to": "no-reply@quivr.app",
+                "subject": "Dr. Quantum - Brain Shared With You",
+                "reply_to": "info@drquantum.io",
                 "html": html_body,
             }
         )

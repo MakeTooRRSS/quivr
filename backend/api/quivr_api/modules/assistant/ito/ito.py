@@ -114,8 +114,8 @@ class ITO(BaseModel):
             params = {
                 "from": mail_from,
                 "to": [mail_to],
-                "subject": "Quivr Ingestion Processed",
-                "reply_to": "no-reply@quivr.app",
+                "subject": "Dr. Quantum Ingestion Processed",
+                "reply_to": "info@drquantum.io",
                 "html": body,
                 "attachments": [{"filename": filename, "content": list(f.read())}],
             }
