@@ -15,7 +15,7 @@ export const AnimatedDiv = ({ children }: AnimatedDivProps): JSX.Element => {
         width: isOpened ? OPENED_MENU_WIDTH : "0px",
       }}
       animate={{
-        width: OPENED_MENU_WIDTH,
+        width: isOpened ? OPENED_MENU_WIDTH : "260px",
         opacity: isOpened ? 1 : 0.5,
         boxShadow: isOpened
           ? "10px 10px 16px rgba(0, 0, 0, 0)"
