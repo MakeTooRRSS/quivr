@@ -9,9 +9,10 @@
   border-right: 1px solid var(--border-1);
   width: Variables.$menuWidth;
   transition: width 0.1s ease-in-out;
+  width: 260px;
 
   &.hidden {
-    width: 260px;
+    width: 0px;
   }
 
   .menu_wrapper {
@@ -62,7 +63,7 @@
   z-index: ZIndexes.$overlay;
 
   &.shifted {
-    margin-left: 180px;
+    margin-left: 220px;
   }
 }
 
