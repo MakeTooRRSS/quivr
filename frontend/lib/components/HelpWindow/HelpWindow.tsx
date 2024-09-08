@@ -188,7 +188,7 @@ export const HelpWindow = (): JSX.Element => {
               src="https://drquantum.io/wp-content/uploads/2024/09/quantum.png"
               width={500}
               height={100}
-              alt="Dr. Quantum"
+              alt="quantum"
             />
           </div>
         </div>
