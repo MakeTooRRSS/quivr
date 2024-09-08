@@ -78,6 +78,18 @@ export const HelpWindow = (): JSX.Element => {
       </div>
       <div className={styles.content}>
         <div className={styles.section}>
+          <span className={styles.title}>🗯 How to have more effective consultations with Dr. Quantum?</span>
+          <span className={styles.section_content}>
+            <p><strong>Example:</strong></p>
+            <p>
+              Hi my name is Paul I am 55 years old and I need a protocol to treat liver cancer.✨</p>
+            <p>
+
+              Dr. Quantum allows you to <strong>interact directly</strong> with AI
+              models such asply start a conversation with the AI to get answers and
+              support based on a broad range of data and knowledge. 🤖
+            </p>
+          </span>
           <span className={styles.title}>🧱 Build your second brains</span>
           <span className={styles.section_content}>
             A <strong>Brain</strong> in Dr. Quantum is an advanced knowledge system
