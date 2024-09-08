@@ -1,8 +1,10 @@
 {
   "devDependencies": {
+    "@types/axios": "^0.14.0",
     "@types/next": "^9.0.0",
     "@types/node": "^22.5.4",
-    "@types/react": "^18.3.5"
+    "@types/react": "^18.3.5",
+    "@types/react-i18next": "^8.1.0"
   },
   "dependencies": {
     "react": "^18.3.1"
